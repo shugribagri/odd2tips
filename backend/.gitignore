@@ -1,0 +1,11 @@
+node_modules/
+.env
+/sessions/
+/public/uploads/
+./articles.json
+./cleanedArticles.json
+./formattedArticles.json
+./fullArticles.json
+fullLiveArticles.json
+
+.vercel

@@ -1,0 +1,44 @@
+[
+  { "country": "Ghana", "url": "https://trends24.in/ghana/" },
+
+  { "country": "Australia", "url": "https://trends24.in/australia/" },
+  { "country": "South Africa", "url": "https://trends24.in/south-africa/" },
+  { "country": "Brazil", "url": "https://trends24.in/brazil/" },
+
+  { "country": "Canada", "url": "https://trends24.in/canada/" },
+
+  { "country": "United Kingdom", "url": "https://trends24.in/united-kingdom/" },
+  { "country": "India", "url": "https://trends24.in/india/" },
+
+  { "country": "Ireland", "url": "https://trends24.in/ireland/" },
+
+  { "country": "France", "url": "https://trends24.in/france/" },
+
+  { "country": "Kenya", "url": "https://trends24.in/kenya/" },
+
+  { "country": "New Zealand", "url": "https://trends24.in/new-zealand/" },
+
+  { "country": "Malaysia", "url": "https://trends24.in/malaysia/" },
+  { "country": "Kenya", "url": "https://trends24.in/kenya/" },
+
+  { "country": "Netherlands", "url": "https://trends24.in/netherlands/" },
+
+  {
+    "country": "Dominican Republic",
+    "url": "https://trends24.in/dominican-republic/"
+  },
+
+  { "country": "Philippines", "url": "https://trends24.in/philippines/" },
+
+  { "country": "Singapore", "url": "https://trends24.in/singapore/" },
+  { "country": "Kenya", "url": "https://trends24.in/kenya/" },
+
+  { "country": "United States", "url": "https://trends24.in/united-states/" },
+  { "country": "Mexico", "url": "https://trends24.in/mexico/" },
+  { "country": "South Africa", "url": "https://trends24.in/south-africa/" },
+
+  { "country": "Worldwide", "url": "https://trends24.in/worldwide/" },
+
+  { "country": "United States", "url": "https://trends24.in/united-states/" },
+  { "country": "Nigeria", "url": "https://trends24.in/nigeria/" }
+]
