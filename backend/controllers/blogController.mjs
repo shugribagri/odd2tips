@@ -15,7 +15,7 @@ const getAllPosts = async (req, res) => {
 
 const getAllPostsTest = async (req, res) => {
   try {
-    const posts = await BlogPostTest.find().sort({ date: -1 });
+    const posts = await BlogPostTest.find().sort({ date: -1 }).limit(15);
     res.json(posts);
   } catch (error) {
     console.error(error);
