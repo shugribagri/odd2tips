@@ -55,7 +55,7 @@ export default function Login() {
 
   const handleGoogleLogin = async () => {
     try {
-      window.location.href = "https://odd2tips.onrender.com/auth/google";
+      window.location.href = "https://odd2tips-0f9x.onrender.com/auth/google";
     } catch (err) {
       setError(err.response?.data.error || "Error with Google login");
       console.error("Error with Google login:", err);
